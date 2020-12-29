@@ -1,6 +1,6 @@
 # Welcome to my blog
 
-I am Marie Serykh and am aiming to become a Sofrwear Developer. To be precise a Front-End Developer.
+I am Marie Serykh and am aiming to become a Software Developer. To be precise a Front-End Developer.
 
 I have been interested in the IT world for many years, even worked as a Project Manager in IT companies, though I did not dare to code or dream about working as a developer.
 
